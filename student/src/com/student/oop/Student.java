@@ -9,7 +9,7 @@ public class Student {
 	private double studFees;
 	private Address address;
 	
-	
+	priavte String name="Ovee";
 	
 	public Student() {
 		super();
