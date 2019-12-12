@@ -10,7 +10,7 @@ public class Student {
 	private Address address;
 	
 	priavte String name="Ovee";
-	
+	int aa=10;
 	public Student() {
 		super();
 		// TODO Auto-generated constructor stub
